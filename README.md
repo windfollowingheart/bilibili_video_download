@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # B站视频下载器
 
 #### 介绍
@@ -16,3 +17,7 @@
 ![1](./readme_image/3.png)
 
 需要使用ffmpeg
+=======
+# bilibili_video_download
+base on PyQt5
+>>>>>>> remotes/r3/main
