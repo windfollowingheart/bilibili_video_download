@@ -21,3 +21,7 @@
 # bilibili_video_download
 base on PyQt5
 >>>>>>> remotes/r3/main
+>>>>>>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=windfollowingheart/bilibili_video_download&type=Date)](https://star-history.com/#windfollowingheart/bilibili_video_download&Date)
